@@ -6,7 +6,7 @@ on: push
 # Set the Job #
 ###############
 jobs:
-  super-linter:
+  super-lint:
     name: Lint code base
     runs-on: ubuntu-latest
 
