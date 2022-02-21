@@ -23,7 +23,7 @@ jobs:
       ################################
       # Run Linter against code base #
       ################################
-      - name: Run super-linter
+      - name: Run Super-Linter
         uses: github/super-linter@v3
         env:
           DEFAULT_BRANCH: main
